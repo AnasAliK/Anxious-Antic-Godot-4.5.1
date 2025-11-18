@@ -184,6 +184,3 @@ Levels can loop with randomized threats for replay value.
 
 ---
 
-
-✅ A shortened version for itch.io
-✅ Icons / emojis added version for style
